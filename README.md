@@ -6,8 +6,16 @@ This project analyzes the Nassau Candy Distributor dataset using Python.
 ## Tools Used
 - Python
 - Pandas
+- Matplotlib
+- Streamlit
 
 ## KPIs
 - Total Sales
+- Total Profit
+- Total Orders
 - Total Units Sold
-- Missing Value Analysis
+
+## Visualizations
+- Sales by Category
+- Monthly Sales Trend
+- Top Products
